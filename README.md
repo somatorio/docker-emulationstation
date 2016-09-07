@@ -19,6 +19,9 @@ docker run -it --rm \
                 somatorio/emulationstation
 ```
 
+## Example es_systems.cfg (should be put at $HOME/.emulationstation)
+https://gist.github.com/somatorio/dd2684f8f31c96a24015dbb491caab6d
+
 ## What about the themes?
 
 Unfortunately i couldn't find a way to add the themes dir at the image (as it is placed at homedir/.emulationstation/themes and homedir/.emulationstation will be mounted as a volume)
