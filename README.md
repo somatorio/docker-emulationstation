@@ -27,4 +27,4 @@ https://gist.github.com/somatorio/dd2684f8f31c96a24015dbb491caab6d
 
 Unfortunately i couldn't find a way to add the themes dir at the image (as it is placed at homedir/.emulationstation/themes and homedir/.emulationstation will be mounted as a volume)
 
-But you can find ES 2.0 themes at [RetroPie github](https://github.com/RetroPie) they are available as repos starting with "es-theme-" [example](https://github.com/RetroPie/es-theme-simple), just download and unzip/untar at /where/you/want/your/.emulationstation/themes
+But you can find ES 2.0 themes at [RetroPie github](https://github.com/RetroPie) they are available as repos starting with "es-theme-" ([example](https://github.com/RetroPie/es-theme-simple)), just download and unzip/untar at /where/you/want/your/.emulationstation/themes
